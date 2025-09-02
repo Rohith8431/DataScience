@@ -147,3 +147,6 @@ Learn chatbot frameworks or API integration
 Add file upload + analysis to chatbot
 
 Test and deploy
+
+Useful links for learning:
+https://medium.com/@nafisaidris413/handling-different-data-formats-and-sources-in-data-cleaning-projects-0094b98ef9ac
